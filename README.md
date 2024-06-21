@@ -27,9 +27,8 @@ This is a complete To-Do List application built with **ASP.NET Core**, **Entity 
 
 ### Prerequisites
 
-- [.NET 5.0 SDK](https://dotnet.microsoft.com/download/dotnet/5.0)
+- [.NET 8.0 SDK](https://dotnet.microsoft.com/download/dotnet/5.0)
 - [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
-- [Node.js](https://nodejs.org/) (for managing frontend dependencies, if any)
 
 ### Installation
 
@@ -79,10 +78,5 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-For any inquiries or support, please reach out to me at [your-email@example.com](mailto:your-email@example.com).
-
----
 
 Thank you for using the To-Do List application! We hope it helps you stay organized and productive.
