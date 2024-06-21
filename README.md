@@ -65,11 +65,6 @@ This is a complete To-Do List application built with **ASP.NET Core**, **Entity 
 - **Delete Task**: Click the delete button next to a task to remove it.
 - **Filter Tasks**: Use the filter options to view tasks by category or due date.
 
-## Screenshots
-
-![Screenshot1](screenshots/screenshot1.png)
-![Screenshot2](screenshots/screenshot2.png)
-
 ## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
